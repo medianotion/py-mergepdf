@@ -1,0 +1,7 @@
+{
+    "input_bucket": "140blackacres",
+    "input_file_key": "mergepdf/pdf_list_1000.json",
+    "output_bucket": "140blackacres",
+    "output_file_key": "mergepdf/test-cli-output.pdf",
+    "optimize_pdf": true
+}
